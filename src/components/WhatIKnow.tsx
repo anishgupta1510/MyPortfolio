@@ -15,6 +15,9 @@ const WhatIKnow = () => {
                         <span className='p-2 m-1 rounded-md bg-blue-500 text-white'  >
                             ReactJs
                         </span>
+                        <span className='p-2 m-1 rounded-md bg-blue-500 text-white'  >
+                            React Native
+                        </span>
                         <span className='p-2 m-1 rounded-md bg-red-600 text-white'  >
                             Angular
                         </span>
